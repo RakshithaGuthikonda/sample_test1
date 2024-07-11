@@ -18,7 +18,7 @@ spec:
     spec: 
       containers: 
         - name: python-app
-          image: rgrakshitha1.azurecr.io/python_test
+          image: bhanurepoacr.azurecr.io/python_test
           ports:
             - containerPort: 5000
 ---
